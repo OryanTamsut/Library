@@ -1,0 +1,206 @@
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csprojAssemblyReference.cache
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.GenerateResource.cache
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+C:\Users\user\Desktop\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+D:\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csprojAssemblyReference.cache
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.GenerateResource.cache
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.CoreCompileInputs.cache
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+D:\אוריין\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+D:\אוריין\ויסואל סטודיו\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+D:\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+D:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+D:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContents.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContentsTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.GenerateResource.cache
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.CoreCompileInputs.cache
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersSabject.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\bin\Debug\he-IL\Sifria2010.resources.dll
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.he-IL.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he-IL\Sifria2010.resources.dll
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibirians.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibriansTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmChangePassward.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmInformation.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopies.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopiesTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmLendingTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmFinishLending.resources
+F:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+F:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+F:\מחשבים\Sifria2010\Sifria2010\bin\Debug\he-IL\Sifria2010.resources.dll
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmChangePassward.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContents.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContentsTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopies.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopiesTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmInformation.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersSabject.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmLendingTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibirians.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibriansTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmFinishLending.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.he-IL.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he-IL\Sifria2010.resources.dll
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllLending.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllLending.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmFinePaying.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmEzerLendingReturing.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmEzerLendingReturing.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmFinePaying.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllFinePayingTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllFinePayingTable.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMember.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.resources
+F:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMember.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csprojAssemblyReference.cache
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMemberById.resources
+E:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+E:\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+E:\מחשבים\Sifria2010\Sifria2010\bin\Debug\he-IL\Sifria2010.resources.dll
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllFinePayingTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllLending.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmChangePassward.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContents.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContentsTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopies.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopiesTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmEzerLendingReturing.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmFinePaying.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmInformation.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersSabject.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmLendingTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibirians.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibriansTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMember.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMemberById.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmFinishLending.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.he-IL.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.GenerateResource.cache
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.CoreCompileInputs.cache
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he-IL\Sifria2010.resources.dll
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb
+D:\מחשבים\Sifria2010\Sifria2010\bin\Debug\he\Sifria2010.resources.dll
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.he.resources
+D:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he\Sifria2010.resources.dll
+E:\מחשבים\Sifria2010\Sifria2010\bin\Debug\he\Sifria2010.resources.dll
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.he.resources
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he\Sifria2010.resources.dll
+E:\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csprojAssemblyReference.cache
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.exe
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\bin\Debug\Sifria2010.pdb
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\bin\Debug\he-IL\Sifria2010.resources.dll
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\bin\Debug\he\Sifria2010.resources.dll
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csprojAssemblyReference.cache
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.frmMain.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllFinePayingTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmAllLending.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooks.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmBooksTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmChangePassward.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContents.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmContentsTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopies.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmCopiesTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmEzerLendingReturing.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmFinePaying.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmInformation.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersSabject.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmJanersTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmLendingTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibirians.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmLibriansTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMember.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmMembersTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMember.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmSearchMemberById.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWriter.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmWritersTable.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.FrmFinishLending.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Properties.Resources.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.Form1.he-IL.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.GUI.frmMemberWithFine.he.resources
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.GenerateResource.cache
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.csproj.CoreCompileInputs.cache
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he-IL\Sifria2010.resources.dll
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\he\Sifria2010.resources.dll
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.exe
+C:\Users\tamsu\Desktop\לימודים\תיכון מחשבים\מחשבים\Sifria2010\Sifria2010\obj\x86\Debug\Sifria2010.pdb

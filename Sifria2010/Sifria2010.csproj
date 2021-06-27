@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E399FB6A-0F83-45CE-819B-397AAEDAED2B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sifria2010</RootNamespace>
+    <AssemblyName>Sifria2010</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Books.cs" />
+    <Compile Include="BLL\BooksTable.cs" />
+    <Compile Include="BLL\Content.cs" />
+    <Compile Include="BLL\ContentTable.cs" />
+    <Compile Include="BLL\Copies.cs" />
+    <Compile Include="BLL\CopiesInLending.cs" />
+    <Compile Include="BLL\CopiesInLendingTable.cs" />
+    <Compile Include="BLL\CopiesTable.cs" />
+    <Compile Include="BLL\FinePaying.cs" />
+    <Compile Include="BLL\FinePayingTable.cs" />
+    <Compile Include="BLL\GeneralTable.cs" />
+    <Compile Include="BLL\GeneralTableByAutoCode.cs" />
+    <Compile Include="BLL\GeneralTableTwoKeys.cs" />
+    <Compile Include="BLL\Information.cs" />
+    <Compile Include="BLL\InformationTable.cs" />
+    <Compile Include="BLL\Lending.cs" />
+    <Compile Include="BLL\LendingTable.cs" />
+    <Compile Include="BLL\LibirianTable.cs" />
+    <Compile Include="BLL\Libirian.cs" />
+    <Compile Include="BLL\Members.cs" />
+    <Compile Include="BLL\MembersTable.cs" />
+    <Compile Include="BLL\Subjects.cs" />
+    <Compile Include="BLL\SubjectsTable.cs" />
+    <Compile Include="BLL\Writers.cs" />
+    <Compile Include="BLL\WritersTable.cs" />
+    <Compile Include="DAL\DAL.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAllFinePayingTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAllFinePayingTable.Designer.cs">
+      <DependentUpon>frmAllFinePayingTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAllLending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAllLending.Designer.cs">
+      <DependentUpon>frmAllLending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmBooks.Designer.cs">
+      <DependentUpon>frmBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmBooksTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmBooksTable.Designer.cs">
+      <DependentUpon>frmBooksTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmChangePassward.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmChangePassward.Designer.cs">
+      <DependentUpon>FrmChangePassward.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmContents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmContents.Designer.cs">
+      <DependentUpon>FrmContents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmContentsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmContentsTable.Designer.cs">
+      <DependentUpon>FrmContentsTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmCopies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmCopies.Designer.cs">
+      <DependentUpon>frmCopies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmCopiesTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmCopiesTable.Designer.cs">
+      <DependentUpon>frmCopiesTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmEzerLendingReturing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmEzerLendingReturing.Designer.cs">
+      <DependentUpon>frmEzerLendingReturing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmFinePaying.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmFinePaying.Designer.cs">
+      <DependentUpon>frmFinePaying.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmInformation.Designer.cs">
+      <DependentUpon>FrmInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmJanersSabject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmJanersSabject.Designer.cs">
+      <DependentUpon>FrmJanersSabject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmJanersTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmJanersTable.Designer.cs">
+      <DependentUpon>FrmJanersTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmLendingTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmLendingTable.Designer.cs">
+      <DependentUpon>frmLendingTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmLibirians.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmLibirians.Designer.cs">
+      <DependentUpon>FrmLibirians.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmLibriansTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmLibriansTable.Designer.cs">
+      <DependentUpon>FrmLibriansTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmMember.Designer.cs">
+      <DependentUpon>FrmMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmMembersTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmMembersTable.Designer.cs">
+      <DependentUpon>FrmMembersTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmMemberWithFine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmMemberWithFine.Designer.cs">
+      <DependentUpon>frmMemberWithFine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmSearchMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmSearchMember.Designer.cs">
+      <DependentUpon>frmSearchMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmSearchMemberById.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmSearchMemberById.Designer.cs">
+      <DependentUpon>frmSearchMemberById.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmWriter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmWriter.Designer.cs">
+      <DependentUpon>FrmWriter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmWritersTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmWritersTable.Designer.cs">
+      <DependentUpon>FrmWritersTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmFinishLending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmFinishLending.Designer.cs">
+      <DependentUpon>FrmFinishLending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.he-IL.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAllFinePayingTable.resx">
+      <DependentUpon>frmAllFinePayingTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAllLending.resx">
+      <DependentUpon>frmAllLending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmBooks.resx">
+      <DependentUpon>frmBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmBooksTable.resx">
+      <DependentUpon>frmBooksTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmChangePassward.resx">
+      <DependentUpon>FrmChangePassward.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmContents.resx">
+      <DependentUpon>FrmContents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmContentsTable.resx">
+      <DependentUpon>FrmContentsTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmCopies.resx">
+      <DependentUpon>frmCopies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmCopiesTable.resx">
+      <DependentUpon>frmCopiesTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmEzerLendingReturing.resx">
+      <DependentUpon>frmEzerLendingReturing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmFinePaying.resx">
+      <DependentUpon>frmFinePaying.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmInformation.resx">
+      <DependentUpon>FrmInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmJanersSabject.resx">
+      <DependentUpon>FrmJanersSabject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmJanersTable.resx">
+      <DependentUpon>FrmJanersTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmLendingTable.resx">
+      <DependentUpon>frmLendingTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmLibirians.resx">
+      <DependentUpon>FrmLibirians.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmLibriansTable.resx">
+      <DependentUpon>FrmLibriansTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmMember.resx">
+      <DependentUpon>FrmMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmMembersTable.resx">
+      <DependentUpon>FrmMembersTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmMemberWithFine.he.resx">
+      <DependentUpon>frmMemberWithFine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmMemberWithFine.resx">
+      <DependentUpon>frmMemberWithFine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmSearchMember.resx">
+      <DependentUpon>frmSearchMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmSearchMemberById.resx">
+      <DependentUpon>frmSearchMemberById.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmWriter.resx">
+      <DependentUpon>FrmWriter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmWritersTable.resx">
+      <DependentUpon>FrmWritersTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmFinishLending.resx">
+      <DependentUpon>FrmFinishLending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
